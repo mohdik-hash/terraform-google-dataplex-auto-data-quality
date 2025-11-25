@@ -55,7 +55,7 @@ rules:
     name: range-values
     description: Sample rule for values in a range
     ignore_null: false
-    threshold: 0.99
+    threshold: 0.98
     range_expectation:
       max_value: '1'
       # min_value:
